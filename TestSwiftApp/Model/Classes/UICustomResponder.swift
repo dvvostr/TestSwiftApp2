@@ -18,6 +18,7 @@ open class UICustomResponder: UIResponder {
         }
         self.window?.makeKeyAndVisible()
 
+//        self.window?.rootViewController = HomeViewController()
         self.window?.rootViewController = UINavigationController(rootViewController: HomeViewController())
     }
     private func setSystem(){

@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  TestSwiftApp
-//
-//  Created by Дмитрий Востриков on 11.09.2023.
-//
-
 import UIKit
 
 @main

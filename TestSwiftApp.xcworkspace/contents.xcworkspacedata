@@ -4,4 +4,10 @@
    <FileRef
       location = "container:TestSwiftApp.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:TestSwiftApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
 </Workspace>
